@@ -1,0 +1,29 @@
+Ash colour scheme:
+*R-5
+*G-167
+*B-248
+
+Nokuthula color scheme
+*R-248
+*G-0
+*B-198
+
+S'nethemba color scheme
+*R-31
+*G-28
+*B-107
+
+Tray's color scheme
+*R-30
+*G-145
+*B-2
+
+Kyle's color scheme
+*R-251
+*G-109
+*B-1
+
+Jay's color scheme
+*R-129
+*G-10
+*B-180
